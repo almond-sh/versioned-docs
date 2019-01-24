@@ -1,0 +1,30 @@
+{
+  "version-0.2.2-docs": {
+    "Quick start": [
+      "version-0.2.2-intro",
+      "version-0.2.2-quick-start-install"
+    ],
+    "Usage": [
+      "version-0.2.2-usage-plotting",
+      "version-0.2.2-usage-spark"
+    ],
+    "API": [
+      "version-0.2.2-api",
+      "version-0.2.2-api-access-instances",
+      "version-0.2.2-api-ammonite",
+      "version-0.2.2-api-jupyter"
+    ],
+    "Installation": [
+      "version-0.2.2-install-options",
+      "version-0.2.2-install-multiple",
+      "version-0.2.2-install-versions",
+      "version-0.2.2-install-other"
+    ],
+    "Development": [
+      "version-0.2.2-dev-from-sources",
+      "version-0.2.2-dev-custom-kernel",
+      "version-0.2.2-dev-libraries",
+      "version-0.2.2-dev-website"
+    ]
+  }
+}
