@@ -16,13 +16,13 @@ $ docker run -it --rm -p 8888:8888 almondsh/almond:latest
 Run a specific version with
 
 ```
-$ docker run -it --rm -p 8888:8888 almondsh/almond:0.1.9
+$ docker run -it --rm -p 8888:8888 almondsh/almond:0.3.0
 ```
 
 Run a specific version with a specific Scala version with
 
 ```
-$ docker run -it --rm -p 8888:8888 almondsh/almond:0.1.9-scala-2.12.8
+$ docker run -it --rm -p 8888:8888 almondsh/almond:0.3.0-scala-2.12.8
 ```
 
 See [here](install-versions.md) for the compatible Almond versions / Scala
