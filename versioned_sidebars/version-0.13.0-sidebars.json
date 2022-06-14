@@ -1,0 +1,35 @@
+{
+  "version-0.13.0-docs": {
+    "Intro": [
+      "version-0.13.0-intro"
+    ],
+    "Try it": [
+      "version-0.13.0-try-mybinder",
+      "version-0.13.0-try-docker",
+      "version-0.13.0-try-deepnote"
+    ],
+    "Installation": [
+      "version-0.13.0-quick-start-install",
+      "version-0.13.0-install-options",
+      "version-0.13.0-install-multiple",
+      "version-0.13.0-install-versions",
+      "version-0.13.0-install-other"
+    ],
+    "Usage": [
+      "version-0.13.0-usage-plotting",
+      "version-0.13.0-usage-spark"
+    ],
+    "User API": [
+      "version-0.13.0-api",
+      "version-0.13.0-api-ammonite",
+      "version-0.13.0-api-jupyter",
+      "version-0.13.0-api-access-instances"
+    ],
+    "Development": [
+      "version-0.13.0-dev-from-sources",
+      "version-0.13.0-dev-custom-kernel",
+      "version-0.13.0-dev-libraries",
+      "version-0.13.0-dev-website"
+    ]
+  }
+}
