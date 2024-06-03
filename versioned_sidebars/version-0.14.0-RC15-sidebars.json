@@ -1,0 +1,36 @@
+{
+  "version-0.14.0-RC15-docs": {
+    "Intro": [
+      "version-0.14.0-RC15-intro"
+    ],
+    "Try it": [
+      "version-0.14.0-RC15-try-mybinder",
+      "version-0.14.0-RC15-try-docker",
+      "version-0.14.0-RC15-try-deepnote"
+    ],
+    "Installation": [
+      "version-0.14.0-RC15-quick-start-install",
+      "version-0.14.0-RC15-install-options",
+      "version-0.14.0-RC15-install-multiple",
+      "version-0.14.0-RC15-install-versions",
+      "version-0.14.0-RC15-install-other",
+      "version-0.14.0-RC15-install-advanced"
+    ],
+    "Usage": [
+      "version-0.14.0-RC15-usage-plotting",
+      "version-0.14.0-RC15-usage-spark"
+    ],
+    "User API": [
+      "version-0.14.0-RC15-api",
+      "version-0.14.0-RC15-api-ammonite",
+      "version-0.14.0-RC15-api-jupyter",
+      "version-0.14.0-RC15-api-access-instances"
+    ],
+    "Development": [
+      "version-0.14.0-RC15-dev-from-sources",
+      "version-0.14.0-RC15-dev-custom-kernel",
+      "version-0.14.0-RC15-dev-libraries",
+      "version-0.14.0-RC15-dev-website"
+    ]
+  }
+}
