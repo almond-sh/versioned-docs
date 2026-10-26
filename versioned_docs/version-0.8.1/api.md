@@ -1,8 +1,6 @@
 ---
 title: Intro
 hide_title: true
-id: version-0.8.1-api
-original_id: api
 ---
 
 # API

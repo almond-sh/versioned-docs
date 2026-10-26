@@ -1,7 +1,5 @@
 ---
 title: Access API instances
-id: version-0.14.0-RC5-api-access-instances
-original_id: api-access-instances
 ---
 
 ## From the Jupyter cells

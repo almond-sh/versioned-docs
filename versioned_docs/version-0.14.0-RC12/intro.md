@@ -1,8 +1,6 @@
 ---
 title: Overview
 hide_title: true
-id: version-0.14.0-RC12-intro
-original_id: intro
 ---
 
 # almond

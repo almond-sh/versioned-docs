@@ -1,8 +1,6 @@
 ---
 title: Overview
 hide_title: true
-id: version-0.5.0-intro
-original_id: intro
 ---
 
 # almond

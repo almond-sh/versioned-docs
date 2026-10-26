@@ -1,7 +1,5 @@
 ---
 title: Versions
-id: version-0.8.1-install-versions
-original_id: install-versions
 ---
 
 Available Scala versions for each version of almond

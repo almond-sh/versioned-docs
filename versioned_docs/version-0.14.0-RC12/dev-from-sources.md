@@ -1,7 +1,5 @@
 ---
 title: Installing from sources
-id: version-0.14.0-RC12-dev-from-sources
-original_id: dev-from-sources
 ---
 
 ## Prerequisites

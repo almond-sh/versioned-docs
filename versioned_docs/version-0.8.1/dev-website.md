@@ -1,7 +1,5 @@
 ---
 title: Generate the website
-id: version-0.8.1-dev-website
-original_id: dev-website
 ---
 
 Make sure you have installed *Ammonite*, *npm* and yarn.

@@ -1,7 +1,5 @@
 ---
 title: Writing custom kernels
-id: version-0.9.1-dev-custom-kernel
-original_id: dev-custom-kernel
 ---
 
 The sources of the scala kernel have such an example demo kernel under [this directory](https://github.com/jupyter-scala/jupyter-scala/tree/c6bc94a397196be52232cc833e1095ef5e6264d2/modules/echo).

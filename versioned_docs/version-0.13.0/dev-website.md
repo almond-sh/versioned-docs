@@ -1,7 +1,5 @@
 ---
 title: Generate the website
-id: version-0.13.0-dev-website
-original_id: dev-website
 ---
 
 Make sure you have installed *npm* and yarn.

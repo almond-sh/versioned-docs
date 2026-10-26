@@ -1,7 +1,5 @@
 ---
 title: Ammonite API
-id: version-0.10.6-api-ammonite
-original_id: api-ammonite
 ---
 
 The Ammonite API consists in instances of several classes, that are created

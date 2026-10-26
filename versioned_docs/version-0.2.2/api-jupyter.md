@@ -1,7 +1,5 @@
 ---
 title: Almond Jupyter API
-id: version-0.2.2-api-jupyter
-original_id: api-jupyter
 ---
 
 The Almond Jupyter API can be accessed via an instance of [`almond.api.JupyterAPI`](#jupyterapi). Such an

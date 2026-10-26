@@ -1,7 +1,5 @@
 ---
 title: Plotting
-id: version-0.13.0-usage-plotting
-original_id: usage-plotting
 ---
 Whilst there are scala plotting libraries, here is a pragmatic, flexible workflow without them. Play each part of the stack to it's strengths - use the vega editor to get your "spec" right, then scala to obatin and pipe the data into the spec. Any JSON library would do... 
 

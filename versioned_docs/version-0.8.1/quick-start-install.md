@@ -1,7 +1,5 @@
 ---
 title: Installation
-id: version-0.8.1-quick-start-install
-original_id: quick-start-install
 ---
 
 ## Create a launcher

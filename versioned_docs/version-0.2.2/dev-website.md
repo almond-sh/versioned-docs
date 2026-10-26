@@ -1,7 +1,5 @@
 ---
 title: Generate the website
-id: version-0.2.2-dev-website
-original_id: dev-website
 ---
 
 Install pre-requisites with

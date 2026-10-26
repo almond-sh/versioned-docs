@@ -1,7 +1,5 @@
 ---
 title: Multiple kernels
-id: version-0.10.3-install-multiple
-original_id: install-multiple
 ---
 
 Several versions of almond can be installed side-by-side. This is useful e.g. to have kernels

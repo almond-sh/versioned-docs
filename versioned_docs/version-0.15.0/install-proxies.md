@@ -1,7 +1,5 @@
 ---
 title: Proxies and mirrors
-id: version-0.15.0-install-proxies
-original_id: install-proxies
 ---
 
 Almond downloads what it needs from Maven Central, with [coursier](https://get-coursier.io).

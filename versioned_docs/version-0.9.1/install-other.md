@@ -1,7 +1,5 @@
 ---
 title: Other
-id: version-0.9.1-install-other
-original_id: install-other
 ---
 
 ## All-included launcher

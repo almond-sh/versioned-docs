@@ -1,7 +1,5 @@
 ---
 title: Spark
-id: version-0.8.2-usage-spark
-original_id: usage-spark
 ---
 
 Almond comes with a Spark integration module called *almond-spark*, which allows you to connect to a Spark cluster and

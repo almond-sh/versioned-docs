@@ -1,7 +1,5 @@
 ---
 title: docker
-id: version-0.8.2-try-docker
-original_id: try-docker
 ---
 
 Docker images of almond are automatically published on

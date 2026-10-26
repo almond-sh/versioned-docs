@@ -1,7 +1,5 @@
 ---
 title: mybinder
-id: version-0.3.0-try-mybinder
-original_id: try-mybinder
 ---
 
 Almond has a [repository of examples](https://github.com/almond-sh/examples)

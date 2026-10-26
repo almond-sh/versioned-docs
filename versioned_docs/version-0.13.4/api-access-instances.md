@@ -1,7 +1,5 @@
 ---
 title: Access API instances
-id: version-0.13.4-api-access-instances
-original_id: api-access-instances
 ---
 
 ## From the REPL

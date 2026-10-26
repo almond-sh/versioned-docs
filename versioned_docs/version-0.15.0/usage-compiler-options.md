@@ -1,7 +1,5 @@
 ---
 title: Compiler options
-id: version-0.15.0-usage-compiler-options
-original_id: usage-compiler-options
 ---
 
 Almond compiles each cell with the Scala compiler of the session's Scala version.

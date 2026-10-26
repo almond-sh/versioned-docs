@@ -1,7 +1,5 @@
 ---
 title: Options
-id: version-0.8.1-install-options
-original_id: install-options
 ---
 
 Passing flags, like `--flag`, sets them to true. Use `--flag=false` (note the `=` sign)

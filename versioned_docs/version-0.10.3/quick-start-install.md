@@ -1,7 +1,5 @@
 ---
 title: Installation
-id: version-0.10.3-quick-start-install
-original_id: quick-start-install
 ---
 
 ## Install the almond kernel

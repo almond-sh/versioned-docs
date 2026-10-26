@@ -1,7 +1,5 @@
 ---
 title: Advanced
-id: version-0.14.1-install-advanced
-original_id: install-advanced
 ---
 
 Before diving into how Almond starts, a few words about the Almond installation.
